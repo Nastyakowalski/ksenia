@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: rgb(40, 53, 82);
+}
+.egyrt {
+    text-align: center;
+    color: rgb(190, 97, 97);
+}
+h1  {
+ color: red;
+}
+ul {
+list-style:url("https://learn.algoritmika.org/uploads/2021/01/Arrow%201_0_1611261359.svg");
+}
+h1 {
+     text-align: center;
+}
+p {
+    background-color: rgb(154, 186, 255);
+}
+
+.beskone4noct {
+    position: relative;
+    left: 150px;
+    height: 270px;
+    width: 250px;
+}
+
+.Stalinka{
+    height: 150px;
+    width: 150px;
+}
+.hyrreu{
+    height: 150px;
+    width: 150px;
+}
