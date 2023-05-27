@@ -23,7 +23,6 @@ p {
 }
 
 .beskone4noct {
-    position: relative;
     left: 150px;
     height: 270px;
     width: 250px;
@@ -36,4 +35,14 @@ p {
 .hyrreu{
     height: 150px;
     width: 150px;
+}
+
+.parageev{
+    width:300px;
+    height: 350px;
+}
+
+.vanilka{
+    width: 342px;
+    height: 270px;
 }
